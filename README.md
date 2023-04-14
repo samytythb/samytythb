@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://toidicodedao.files.wordpress.com/2016/09/4.jpg">
+<img align="left" width="400" src="https://pbs.twimg.com/media/DApnZ2fWsAMLtDz.jpg">
 <h1 align="center">Hi 👋, I'm Minh Duc</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
