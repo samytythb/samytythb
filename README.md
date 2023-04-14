@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Minh Duc</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">I am studying and working hard every day to become a better software engineer</h3>
 </p>
 
 <br />
@@ -9,10 +10,10 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="www.linkedin.com/in/ducle2001" target="_blank">
+  <a href="https://www.linkedin.com/in/ducle2001/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+  <a href="https://www.facebook.com/profile.php?id=100009180107219&mibextid=ZbWKwL" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/samytythb" alt="Github">
